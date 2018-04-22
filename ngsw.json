@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "C:/Program Files/Git/ng-camera-trick-pwa/favicon.ico",
-        "C:/Program Files/Git/ng-camera-trick-pwa/index.html",
-        "C:/Program Files/Git/ng-camera-trick-pwa/inline.3b07eda066cd2050022a.bundle.js",
-        "C:/Program Files/Git/ng-camera-trick-pwa/main.5ad68d2e0bb28f582345.bundle.js",
-        "C:/Program Files/Git/ng-camera-trick-pwa/polyfills.ca842edb7740b747d0b9.bundle.js",
-        "C:/Program Files/Git/ng-camera-trick-pwa/styles.6f20731d8dcb7c8b22ac.bundle.css"
+        "https://jpremkumar.github.io/ng-camera-trick-pwa/favicon.ico",
+        "https://jpremkumar.github.io/ng-camera-trick-pwa/index.html",
+        "https://jpremkumar.github.io/ng-camera-trick-pwa/inline.3b07eda066cd2050022a.bundle.js",
+        "https://jpremkumar.github.io/ng-camera-trick-pwa/main.5ad68d2e0bb28f582345.bundle.js",
+        "https://jpremkumar.github.io/ng-camera-trick-pwa/polyfills.ca842edb7740b747d0b9.bundle.js",
+        "https://jpremkumar.github.io/ng-camera-trick-pwa/styles.6f20731d8dcb7c8b22ac.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/ng-camera-trick-pwa/inline.3b07eda066cd2050022a.bundle.js": "e3c1e0c02bdd9789679ee77c1a3b1c81ee88bc91",
-    "C:/Program Files/Git/ng-camera-trick-pwa/main.5ad68d2e0bb28f582345.bundle.js": "08378a0e1c900e1bafe39b76ef7493cf7156be2f",
-    "C:/Program Files/Git/ng-camera-trick-pwa/polyfills.ca842edb7740b747d0b9.bundle.js": "e6f2bd580a6ee063cb382201cd46158a9acc9e6a",
-    "C:/Program Files/Git/ng-camera-trick-pwa/styles.6f20731d8dcb7c8b22ac.bundle.css": "3d1123f1f0edbd06358d14211a9bf40a732478d5",
-    "C:/Program Files/Git/ng-camera-trick-pwa/favicon.ico": "460fcbd48b20fcc32b184388606af1238c890dba",
-    "C:/Program Files/Git/ng-camera-trick-pwa/index.html": "28c067841e70b049fd7c5793dfaaa2a9a22145b2"
+    "https://jpremkumar.github.io/ng-camera-trick-pwa/inline.3b07eda066cd2050022a.bundle.js": "e3c1e0c02bdd9789679ee77c1a3b1c81ee88bc91",
+    "https://jpremkumar.github.io/ng-camera-trick-pwa/main.5ad68d2e0bb28f582345.bundle.js": "08378a0e1c900e1bafe39b76ef7493cf7156be2f",
+    "https://jpremkumar.github.io/ng-camera-trick-pwa/polyfills.ca842edb7740b747d0b9.bundle.js": "e6f2bd580a6ee063cb382201cd46158a9acc9e6a",
+    "https://jpremkumar.github.io/ng-camera-trick-pwa/styles.6f20731d8dcb7c8b22ac.bundle.css": "3d1123f1f0edbd06358d14211a9bf40a732478d5",
+    "https://jpremkumar.github.io/ng-camera-trick-pwa/favicon.ico": "460fcbd48b20fcc32b184388606af1238c890dba",
+    "https://jpremkumar.github.io/ng-camera-trick-pwa/index.html": "da4c620daef772b5a96fddec52a4bc48f333d8d6"
   }
 }
